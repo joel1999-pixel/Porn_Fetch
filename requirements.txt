@@ -14,3 +14,10 @@ httpx
 hue_shift
 Markdown
 mutagen
+youporn_api
+h2
+brotli
+fake-useragent
+lxml
+truststore
+porntrex_api
